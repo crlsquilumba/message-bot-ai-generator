@@ -1,0 +1,33 @@
+Como un experto en marketing de comunicaciones, diseña una secuencia de mensajes de WhatsApp para la empresa La economica. 
+Esta empresa vende Ropa para damas caballeros y niños principalmente a [cliente final]. 
+genera el mensaje usando emoticones llamativos para captar la atención de mi cliente. 
+El menú de la empresa es: 
+Pantalones jeans hombre
+blusas mujer
+medias
+ropa interior
+1. Generar un mensaje para enviarlo vía mensaje de whatsapp a mis clientes, la ideas es captar mas clientes. 
+2. Generar un mensaje para publicarlo en mi estado  de whatsapp a mis clientes, la ideas es captar mas clientes.
+
+
+
+Como un experto en marketing de comunicaciones, diseña una secuencia de mensajes de WhatsApp para la empresa Los Ceviches del Veci 
+Esta empresa vende Comida marinera principalmente a [cliente final]. 
+genera el mensaje usando emoticones llamativos para captar la atención de mi cliente. 
+El menú de la empresa es: 
+Ceviches
+Arroz marinero
+bebidas
+1. Generar un mensaje para enviarlo vía mensaje de whatsapp a mis clientes, la ideas es captar mas clientes. 
+2. Generar un mensaje para publicarlo en mi estado  de whatsapp a mis clientes, la ideas es captar mas clientes.
+
+
+
+
+actua como experto desarrollador de codigo y  crear una aplicacion en react que tenga una pagina con un combo de opciones y quenga un campo para ingresar el nombre de la empresa y tenga el campo para ingresar el perfil d mi clinete, tener un campo para desscribir a que se dedica mi empresa y un campo para los productos que ofrece, un campo para llamada a la accion link o numero whatsapp
+
+
+
+npx create-react-app message-bot-ai-generator
+
+cd message-bot-ai-generator
