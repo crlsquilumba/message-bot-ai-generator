@@ -1,36 +1,24 @@
-/* src/styles/tailwind.css */
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-/* src/styles/Formulario.css */
 .formulario-container {
-  max-width: 600px;
-  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.formulario-content {
+  width: 400px;
   padding: 20px;
   background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-.input {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-sizing: border-box;
+.formulario-button {
+  margin-top: 10px;
 }
 
-.btn {
-  background-color: #25D366;
-  color: #fff;
-  padding: 10px 15px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 16px;
-}
-
-.btn:hover {
-  background-color: #128C7E;
+.formulario-image {
+  width: 150px;
+  margin-left: 20px;
 }
