@@ -13,7 +13,7 @@ const Formulario = ({ handleClick, handleMensajeWhatsapp }) => {
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(false);
   const [apiData, setApiData] = useState('');
-  const genAI = new GoogleGenerativeAI("AIzaSyAaacYQ4pTZ7ciHJZu-8qMSda1NY861S2s");
+  const genAI = new GoogleGenerativeAI("");
 
 
   const handlePrompt = async () => {
