@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React, { useState } from 'react';
+import Formulario from './components/Formulario';
+import MensajeWhatsapp from './components/MensajeWhatsapp';
 
 function App() {
+  const [mensajeWhatsapp, setMensajeWhatsapp] = useState('');
+  const [currentPage, setCurrentPage] = useState('formulario');
+
+
+
+  const handleNextPage = () => {
+    console.log("Mensaje enviado a la siguiente página:", mensajeWhatsapp);
+    setCurrentPage('mensajeWhatsapp');
+  };
+
+  const handleMensajeWhatsapp = (mensaje) => {
+    setMensajeWhatsapp(mensaje);
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {currentPage === 'formulario' && (
+        <Formulario 
+          handleClick={handleNextPage} 
+          handleMensajeWhatsapp={handleMensajeWhatsapp} 
+        />
+      )}
+      {currentPage === 'mensajeWhatsapp' && (
+        <MensajeWhatsapp mensaje={mensajeWhatsapp} />
+      )}
     </div>
   );
-}
+};
 
 export default App;

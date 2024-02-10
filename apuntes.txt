@@ -31,3 +31,51 @@ actua como experto desarrollador de codigo y  crear una aplicacion en react que 
 npx create-react-app message-bot-ai-generator
 
 cd message-bot-ai-generator
+
+
+
+
+
+
+
+----------------------
+
+
+
+crear un mensaje para publicarlo en mi estado de whatsapp para la empresa: Calefones DIAZ, que ofrece productos como: instalacion de calefonones, calentadores de gas, mantenimiento, soporte express. usar moticones en cada producto y una llamada a la accion 0998399273, se breve usa 50 palabras de salida, generar una salida diferente.
+
+utilice 
+* Utilice *asteriscos* para hacer que el texto esté en negrita.
+* Utilice _guiones bajos_ para poner el texto en cursiva.
+* Utilice ~tildes~ para tachar el texto.
+* Utilice `comillas invertidas` para poner el texto en código.
+* Utilice { } para citar texto.
+para generar un mensaje profesional
+
+
+____________________________________________________________________________________________________
+Untitled prompt
+Insert:
+
+crear un mensaje para publicarlo en mi estado de whatsapp para la empresa: Calefones DIAZ, que ofrece productos como: instalacion de calefonones, calentadores de gas, mantenimiento, soporte express. , se breve usa 50 palabras de salida, generar una salida diferente.
+respetar las siguiente instrucciones:
+Crea un mensaje claro, conciso y creativo: Tu mensaje debe transmitir tu propuesta de valor de forma sencilla y directa, sin rodeos ni ambigüedades. Recuerda que WhatsApp es una aplicación de mensajería instantánea, por lo que tus clientes esperan recibir mensajes breves, rápidos y cálidos. Evita el exceso de información, las repeticiones y las faltas de ortografía. Además, intenta que el mensaje sea original y atractivo, que capte la atención y el interés de tus clientes. Puedes usar un tono informal y cercano, pero siempre profesional y respetuoso. 
+También puedes usar recursos como emojis, stickers, gifs, imágenes, para darle más dinamismo y personalidad a tu mensaje.
+Usa el formato adecuado: WhatsApp te permite usar diferentes formatos para darle más énfasis o estilo a tu mensaje. Por ejemplo, puedes usar el formato negrita para resaltar las palabras o frases más importantes, el formato cursiva para expresar énfasis Para usar estos formatos, solo tienes que escribir el símbolo correspondiente antes y después de la palabra o frase que quieras formatear. Estos son los símbolos que debes usar:
+Negrita: *
+Cursiva: _
+Tachado: ~
+
+Incluye un llamado a la acción: Un llamado a la acción es una invitación a que tus clientes realicen una acción concreta después de leer tu mensaje. Puede ser visitar tu página web, comprar tu producto.  Un buen llamado a la acción debe ser claro, específico y urgente, y debe ofrecer un beneficio o una solución a tu cliente. Por ejemplo, puedes escribir algo como “Aprovecha esta oferta exclusiva y compra hoy mismo tu producto favorito con un 50% de descuento. Solo tienes que hacer clic en este enlace y seguir los pasos. ¡No dejes pasar esta oportunidad!”.
+Respeta las normas y las preferencias de tus clientes: Recuerda que WhatsApp es una herramienta para establecer una relación de confianza y satisfacción con tus clientes, no para abusar de ellos o invadir su privacidad.
+
+generar un mensaje profesional 
+
+
+
+
+api google
+
+AIzaSyAaacYQ4pTZ7ciHJZu-8qMSda1NY861S2s
+
+
